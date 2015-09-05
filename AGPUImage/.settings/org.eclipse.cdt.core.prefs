@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.1098580211/NDKROOT/delimiter=;
+environment/project/com.android.toolchain.gcc.1098580211/NDKROOT/operation=append
+environment/project/com.android.toolchain.gcc.1098580211/NDKROOT/value=E\:\\Android\\android-ndk-r10e
+environment/project/com.android.toolchain.gcc.1098580211/append=true
+environment/project/com.android.toolchain.gcc.1098580211/appendContributed=true
